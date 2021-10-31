@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express();
-let PORT = 10000 || process.env.PORT
+const PORT = process.env.PORT || 3000;
 let cors = require('cors')
 
 app.get('/', function(req, res){
