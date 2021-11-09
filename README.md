@@ -12,7 +12,7 @@
     ·
     <a href="https://github.com/brItsMyEyes/scrapping-berita-nodejs/issues">Request Feature</a>
     ·
-    <a href="https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs">Deploy <a/>
+    <a href="https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs">Deploy To Heroku<a/>
   </p>
 </p>
 
