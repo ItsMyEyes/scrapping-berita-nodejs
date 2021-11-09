@@ -1,6 +1,12 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs)
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Scraping News&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -50,12 +56,6 @@ npm install
 * Start the bot with `node index.js`
 
 to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
-
-- Create an application.yml file in your working directory and copy the [example](https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example) into the created file and edit it with your configuration.
-- Run the jar file by running `java -jar Lavalink.jar` in a Terminal window.
-
- Joonie is a lavalink music bot base in [erela.js](https://github.com/MenuDocs/erela.js)
-If you liked this repository, feel free to leave a star ⭐ to help promote !
 <!-- LICENSE -->
 
 ## 🔐 License
