@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
