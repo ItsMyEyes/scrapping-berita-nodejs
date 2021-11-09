@@ -1,12 +1,3 @@
-[![Version][version-shield]](version-url)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Scraping News&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
