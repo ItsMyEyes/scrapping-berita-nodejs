@@ -1,4 +1,3 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -12,6 +11,8 @@
     <a href="https://github.com/ItsMyEyes/scrapping-berita-nodejs/issues">Report Bug</a>
     ·
     <a href="https://github.com/brItsMyEyes/scrapping-berita-nodejs/issues">Request Feature</a>
+    ·
+    <a href="https://heroku.com/deploy?template=https://github.com/ItsMyEyes/scrapping-berita-nodejs">Deploy <a/>
   </p>
 </p>
 
